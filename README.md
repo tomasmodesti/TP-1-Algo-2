@@ -10,4 +10,5 @@
    C) Si no toco ninguna de estas opciones (porque es un burro y no sabe poner del 1 al 4), permitirle reintentar.
 3) Tener 3 archivos (uno chico, mediano y grande), asi le permitimos al usuario elegir el metodo y el tamaño del archivo a ordenar
 4) Crear un nuevo archivo ordenado con el nombre del metodo ordenado
-5) Mostrarle el tiempo que tardo el Programa (DateTime) 
+5) Mostrarle el tiempo que tardo el Programa (DateTime)
+6) Varios archivos (modularizar el programa), uno por cada metodo de ordenamiento, otro para el menu y demas 
